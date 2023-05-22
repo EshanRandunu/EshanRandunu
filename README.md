@@ -38,7 +38,7 @@
 
 <p align="center">
   <ul>
-    <li><a href="https://www.linkedin.com/in/udith-kavishka-447417241/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Udith%20Kavishka-blue?style=flat-square&logo=linkedin"></a></li>
+    <li><a href="https://www.linkedin.com/in/eshan-randunu-4bb7a0268/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Eshan%20Randunu-blue?style=flat-square&logo=linkedin"></a></li>
     <li><a href="mailto:udithmanohara@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-udithmanohara@gmail.com-blue?style=flat-square&logo=gmail"></a></li>
     <li><a href="https://www.facebook.com/tri.gon.562"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-Udith%20Kavishka-blue?style=flat-square&logo=facebook"></a></li>
     <li><a href="https://wa.link/7ddp4c"><img alt="Whatsapp" src="https://img.shields.io/badge/Whatsapp-Udith%20Kavishka-blue?style=flat-square&logo=whatsapp"></a></li>
