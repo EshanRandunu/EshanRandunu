@@ -37,21 +37,16 @@
 <p align="center">
   <ul>
     <li><a href="https://www.linkedin.com/in/eshan-randunu-4bb7a0268/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Eshan%20Randunu-blue?style=flat-square&logo=linkedin"></a></li>
-    <li><a href="mailto:udithmanohara@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-udithmanohara@gmail.com-blue?style=flat-square&logo=gmail"></a></li>
-    <li><a href="https://www.facebook.com/tri.gon.562"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-Udith%20Kavishka-blue?style=flat-square&logo=facebook"></a></li>
-    <li><a href="https://wa.link/7ddp4c"><img alt="Whatsapp" src="https://img.shields.io/badge/Whatsapp-Udith%20Kavishka-blue?style=flat-square&logo=whatsapp"></a></li>
-    <li><a href="https://t.me/Shiroyasha202"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-Udith%20Kavishka-blue?style=flat-square&logo=telegram"></a></li>
+    <li><a href="mailto:eshan152randunu@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-eshan152randunu@gmail.com-blue?style=flat-square&logo=gmail"></a></li>
+    <li><a href="#####"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-####%20####-blue?style=flat-square&logo=facebook"></a></li>
+    <li><a href="####"><img alt="Whatsapp" src="https://img.shields.io/badge/Whatsapp-####%20####-blue?style=flat-square&logo=whatsapp"></a></li>
+    <li><a href="https://t.me/#####"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-###%20K###-blue?style=flat-square&logo=telegram"></a></li>
   </ul>
 </p>
 
-<h3>🎧&nbsp;Entertainment</h3> 
-<ul>
-<li><a href="https://www.deviantart.com/udithkavii"><img alt="Deviantart" src="https://img.shields.io/badge/DeviantArt-Udithkavii-blue?style=flat-square&logo=deviantart"></a></li>
-<li><a href="https://myanimelist.net/profile/UKhira"><img alt="MyAnimeList" src="https://img.shields.io/badge/MyAnimeList-UKhira-blue?style=flat-square&logo=myanimelist"></a></li>
-</ul>
 
 <h3>💼&nbsp;More About Me</h3>
-<a href="https://udithportfolio.netlify.app/" target="_blank"> Click Here</a> to view My Portfolio
+<a href="####"> Click Here</a> to view My Portfolio
 <br><br><br><br>
 
-⭐️ ... &copy;[UKhira](https://github.com/UKhira)
+⭐️ ... &copy;[EshanRandunu](https://github.com/EshanRandunu)
