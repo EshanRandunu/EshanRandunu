@@ -4,7 +4,7 @@
 
 <h3> 👨 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new knowledge and hone skills.
+- 🤔 &nbsp; Exploring new knowledge and skills.
 - 🎓 &nbsp; Studying (BEng)Software Engineering at Informatics Institute of Technologies.
 - 🌱 &nbsp; Learning more about Web, Programming.
 - ✍️ &nbsp; Pursuing Field Path.
