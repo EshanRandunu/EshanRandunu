@@ -38,7 +38,7 @@
   <ul>
     <li><a href="https://www.linkedin.com/in/eshan-randunu-4bb7a0268/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Eshan%20Randunu-blue?style=flat-square&logo=linkedin"></a></li>
     <li><a href="mailto:eshan152randunu@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-eshan152randunu@gmail.com-blue?style=flat-square&logo=gmail"></a></li>
-    <li><a href="https://web.facebook.com/eshan.randunu.9/]"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-Eshan%20Randunu-blue?style=flat-square&logo=facebook"></a></li>
+    <li><a href="https://web.facebook.com/eshan.randunu.9/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-Eshan%20Randunu-blue?style=flat-square&logo=facebook"></a></li>
     <li><a href="####"><img alt="Whatsapp" src="https://img.shields.io/badge/Whatsapp-####%20####-blue?style=flat-square&logo=whatsapp"></a></li>
     <li><a href="https://t.me/#####"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-###%20K###-blue?style=flat-square&logo=telegram"></a></li>
   </ul>
