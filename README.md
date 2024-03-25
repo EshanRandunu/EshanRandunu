@@ -5,7 +5,7 @@
 <h3> 👨 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new knowledge and skills.
-- 🎓 &nbsp; Studying (BEng)Software Engineering at Informatics Institute of Technologies.
+- 🎓 &nbsp; Studying (BEng)Software Engineering at Sri lanka Institute of Information Technology.
 - 🌱 &nbsp; Learning more about Web, Programming.
 - ✍️ &nbsp; Pursuing Field Path.
 
