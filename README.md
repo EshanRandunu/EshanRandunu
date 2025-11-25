@@ -5,7 +5,7 @@
 <h3> 👨 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new knowledge and skills.
-- 🎓 &nbsp; Studying B.Sc. Honours in Information Technology - Specialization in Software Engineering in Sri Lanka Institute of Information Technology.
+- 🎓 &nbsp; Studying B.Sc. Honours in Information Technology - Specialization in Software Engineering at Sri Lanka Institute of Information Technology.
 - 🌱 &nbsp; Learning more about Web, Programming.
 - ✍️ &nbsp; Pursuing Field Path.
 
