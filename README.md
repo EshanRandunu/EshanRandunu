@@ -23,7 +23,15 @@ I'm a passionate learner and tech enthusiast currently pursuing B.Sc. (Hons) in 
 ⚙️ Tools
 <p> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/> </p>
 📊 GitHub Stats
-<div align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=EshanRandunu&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/> <img height="160" src="https://streak-stats.demolab.com?user=EshanRandunu&theme=tokyonight&hide_border=false"/> </div>
+<div align="center">
+  <img 
+    height="160" 
+    src="https://github-readme-stats.vercel.app/api?username=EshanRandunu&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+  <img 
+    height="160" 
+    src="https://streak-stats.demolab.com?user=EshanRandunu&theme=tokyonight&hide_border=false" />
+</div>
+
 🌐 Connect With Me
 <div align="center"> <a href="https://www.linkedin.com/in/eshan-randunu-4bb7a0268/"> <img src="https://img.shields.io/badge/LinkedIn-Eshan%20Randunu-blue?style=flat-square&logo=linkedin"/> </a> <a href="mailto:eshan152randunu@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail"/> </a> <a href="https://web.facebook.com/eshan.randunu.9/"> <img src="https://img.shields.io/badge/Facebook-Eshan%20Randunu-blue?style=flat-square&logo=facebook"/> </a> <a href="https://t.me/"> <img src="https://img.shields.io/badge/Telegram-Chat%20Now-1DA1F2?style=flat-square&logo=telegram"/> </a> </div>
 🧳 Portfolio
