@@ -1,54 +1,40 @@
-<img src="https://thumbs.dreamstime.com/b/welcome-letters-banner-overlapping-colorful-squares-background-121137709.jpg">
+<div align="center"> <img src="https://thumbs.dreamstime.com/b/welcome-letters-banner-overlapping-colorful-squares-background-121137709.jpg" width="500px"/> </div> <br/>
+👋 Hey! I'm Eshan
 
-<h2> Hey there! I'm Eshan.</h2>
+I'm a passionate learner and tech enthusiast currently pursuing B.Sc. (Hons) in Information Technology – Software Engineering at SLIIT. I love learning new technologies, building projects, and exploring different domains in tech.
 
-<h3> 👨 &nbsp;About Me </h3>
+🚀 About Me
 
-- 🤔 &nbsp; Exploring new knowledge and skills.
-- 🎓 &nbsp; Studying B.Sc. Honours in Information Technology - Specialization in Software Engineering at Sri Lanka Institute of Information Technology.
-- 🌱 &nbsp; Learning more about Web, Programming.
-- ✍️ &nbsp; Pursuing Field Path.
+🔍 Always exploring new technologies & concepts
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+🎓 Undergraduate in Software Engineering
 
-- 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B&logoColor=00599C)  
-  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c&logoColor=A8B9CC)
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php&logoColor=777BB4)
-- ⚙️ &nbsp;
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+💻 Interested in Web Development, Programming, & Software Building
 
+🛣 On a journey to discover my career path & expertise
+
+📚 Constant learner and project builder
+
+🛠 Tech Stack
+💻 Programming Languages
+<p> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/C-444444?style=flat&logo=c&logoColor=A8B9CC"/> </p>
+🌐 Web
+<p> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/> </p>
+⚙️ Tools
+<p> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/> </p>
+📊 GitHub Stats
+<div align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=EshanRandunu&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/> <img height="160" src="https://streak-stats.demolab.com?user=EshanRandunu&theme=tokyonight&hide_border=false"/> </div>
+🌐 Connect With Me
+<div align="center"> <a href="https://www.linkedin.com/in/eshan-randunu-4bb7a0268/"> <img src="https://img.shields.io/badge/LinkedIn-Eshan%20Randunu-blue?style=flat-square&logo=linkedin"/> </a> <a href="mailto:eshan152randunu@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail"/> </a> <a href="https://web.facebook.com/eshan.randunu.9/"> <img src="https://img.shields.io/badge/Facebook-Eshan%20Randunu-blue?style=flat-square&logo=facebook"/> </a> <a href="https://t.me/"> <img src="https://img.shields.io/badge/Telegram-Chat%20Now-1DA1F2?style=flat-square&logo=telegram"/> </a> </div>
+🧳 Portfolio
+
+✨ Coming Soon!
+Stay tuned — building something awesome!
+
+<div align="center">
+
+⭐️ Thanks for visiting! Feel free to follow or connect.
 <br/>
+© Eshan Randunu
 
-<table>
-<tr>
-<td><img src ="https://github-readme-stats.vercel.app/api?username=EshanRandunu&count_private=true&include_all_commits=true%22"></td>
-<td><img src ="http://github-readme-streak-stats.herokuapp.com/?user=EshanRandunu&hide_border=true&background=ffffff&currStreakLabel=ffffff&date_format=j%20M%5B%20Y%5D%22"></td>
-</tr>
-</table>
-
-<h3>📞&nbsp;Connect with Me</h3>
-
-<p align="center">
-  <ul>
-    <li><a href="https://www.linkedin.com/in/eshan-randunu-4bb7a0268/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin"></a></li>
-    <li><a href="mailto:eshan152randunu@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-eshan152randunu@gmail.com-blue?style=flat-square&logo=gmail"></a></li>
-    <li><a href="https://web.facebook.com/eshan.randunu.9/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-Eshan%20Randunu-blue?style=flat-square&logo=facebook"></a></li>
-    <li><a href="https://web.telegram.org/k/"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-Eshan%20Randunu-blue?style=flat-square&logo=telegram"></a></li>
-  </ul>
-</p>
-
-
-<h3>💼&nbsp;More About Me</h3>
-<a href="####"> Click Here</a> to view My Portfolio
-<br><br><br><br>
-
-⭐️ ... &copy;[EshanRandunu](https://github.com/EshanRandunu)
+</div>
