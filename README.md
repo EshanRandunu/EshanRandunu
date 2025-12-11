@@ -4,7 +4,7 @@
 
 # 👋 Hey! I'm Eshan
 
-I'm a passionate learner and tech enthusiast currently pursuing **B.Sc. (Hons) in Information Technology – Software Engineering at SLIIT**.  
+I'm a passionate learner and tech enthusiast currently pursuing **B.Sc. (Hons) in Information Technology specializing in Software Engineering at SLIIT**.  
 I love exploring new technologies, building projects, and constantly improving my skills.
 
 ---
@@ -12,7 +12,7 @@ I love exploring new technologies, building projects, and constantly improving m
 ## 🚀 About Me
 
 - 🔍 Always exploring new technologies & concepts  
-- 🎓 Undergraduate in Software Engineering  
+- 🎓 BSc (Hons) in Information Technology, specializing in Software Engineering.
 - 💻 Interested in Web Development, Programming & Software Engineering  
 - 🛣 On a journey to discover my career path & expertise  
 - 📚 Constant learner and project builder  
@@ -49,7 +49,7 @@ I love exploring new technologies, building projects, and constantly improving m
 <div align="center">
 
 <img height="160"
-src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=EshanRandunu&show_icons=true&theme=tokyonight" />
+src="https://github-readme-stats.vercel.app/api?username=EshanRandunu&show_icons=true&theme=tokyonight" />
 
 <img height="160"
 src="https://streak-stats.demolab.com?user=EshanRandunu&theme=tokyonight" />
